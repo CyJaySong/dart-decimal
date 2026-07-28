@@ -1,3 +1,7 @@
+# 3.2.6 (2026-07-28)
+
+- [Speed up round/floor/ceil/truncate by rounding on the significand](https://github.com/a14n/dart-decimal/pull/125)
+
 # 3.2.5 (2026-07-17)
 
 - Fix toStringAsPrecision emitting an extra digit on power-of-10 carry
